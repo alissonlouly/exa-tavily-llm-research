@@ -1,0 +1,5 @@
+ollama
+exa-py
+tavily
+python-dotenv
+IPython
